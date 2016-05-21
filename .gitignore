@@ -1,7 +1,5 @@
 .gradle
 build/
-<<<<<<< HEAD
-=======
 data/
 *.ids
 *.iml
@@ -12,17 +10,12 @@ out/
 .DS_Store
 
 .idea
->>>>>>> master1
 
 # Ignore Gradle GUI config
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-<<<<<<< HEAD
 !gradle-wrapper.jar
 
 # Cache of project
 .gradletasknamecache
-=======
-!gradle-wrapper.jar
->>>>>>> master1
